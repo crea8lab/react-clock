@@ -22,7 +22,7 @@ To update your local branch, run `git pull origin staging`. This will pull the l
 
 Beware of **`merge conflicts`**
 
->> Anytime you have a merge conflict, try to resolve this yourself with the help of `vscode`. And please reach out for guidance on the process.
+> Anytime you have a merge conflict, try to resolve this yourself with the help of `vscode`. And please reach out for guidance on the process.
 
 ### Step 2 - Push your branch
 
